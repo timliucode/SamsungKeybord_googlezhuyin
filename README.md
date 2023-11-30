@@ -6,7 +6,7 @@
 <img src="https://github.com/timliucode/SamsungKeybord_googlezhuyin/assets/27921307/e52dbe90-8527-45c5-beef-a5c0ed3c9215" width="300" height="auto">
 <img src="https://github.com/timliucode/SamsungKeybord_googlezhuyin/assets/27921307/b689a4c1-c345-4884-890c-1c593b664226" width="300" height="auto">
 
-# Keycafe設定
+# Keyscafe設定
 <img src="https://github.com/timliucode/SamsungKeybord_googlezhuyin/assets/27921307/587cf009-3b98-4f52-acfb-7e2649dfb97d" width="300" height="auto">
 <img src="https://github.com/timliucode/SamsungKeybord_googlezhuyin/assets/27921307/a6224ec0-8dda-461e-9cc0-6376892f24c9" width="300" height="auto">
 
